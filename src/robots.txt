@@ -1,0 +1,12 @@
+# Pages used by a rogue site that took over the domain from 2020 through 2022.
+# Hopefully this might purge search engine indexes and Web archives.
+User-agent: *
+Disallow: /archives/
+Disallow: /comments/
+Disallow: /contact-form
+Disallow: /feed/
+Disallow: /privacy-policy
+Disallow: /sitemap
+Disallow: /top/
+Disallow: /wp-content/
+Disallow: /wp-includes/
